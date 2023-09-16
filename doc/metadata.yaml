@@ -12,7 +12,7 @@ images:
 - doc/img/ANT01A_QRcode.png
 - doc/img/ANT01_QRcode.png
 mark: 50
-status: 0
+status: 2
 tags:
 - mlab
 - mlab-module
